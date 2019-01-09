@@ -12,7 +12,7 @@
 		  "dadosDomicilioBancario": {
 			"codigoBanco": 123,
 			"numeroAgencia": 1,
-			"numeroContaCorrente": "00000000065470",
+			"numeroContaCorrente": "00000000065470"
 		  },
 		  "nomeTipoOperacao": "regular"
 		},
@@ -25,7 +25,7 @@
 		"quantidadeLancamentoRemessa": 22,
 		"numeroRaizCNPJ": "12996721",
 		"numeroSufixoCNPJ": "1597",
-		"valorLancamentoRemessa": 11499.1,
+		"valorLancamentoRemessa": "11.499,10",
 		"dateLancamentoContaCorrenteCliente": 1464922800000,
 		"dateEfetivaLancamento": 1464922800000
 	  },
@@ -37,7 +37,7 @@
 		  "dadosDomicilioBancario": {
 			"codigoBanco": 123,
 			"numeroAgencia": 1,
-			"numeroContaCorrente": "00000000065470",
+			"numeroContaCorrente": "00000000065470"
 		  },
 		  "nomeTipoOperacao": "regular"
 		},
@@ -50,12 +50,12 @@
 		"quantidadeLancamentoRemessa": 2,
 		"numeroRaizCNPJ": "12996721",
 		"numeroSufixoCNPJ": "1597",
-		"valorLancamentoRemessa": 1960,
+		"valorLancamentoRemessa": "1.960,00",
 		"dateLancamentoContaCorrenteCliente": 1464836400000,
 		"dateEfetivaLancamento": 1464836400000
 	  }
 	],
 	"indice": 1,
 	"tamanhoPagina": 25,
-	"totalElements": 39,
+	"totalElements": 39
 }
